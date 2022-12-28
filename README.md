@@ -11,3 +11,6 @@ Steps involved are :
 2 - Train the model
 3 - Test the result on the test-video provided
 4 - Save the results.
+
+We are using Google Colab for our complete process due to availibility of free GPU resourses.
+

@@ -14,3 +14,6 @@ Steps involved are :
 
 We are using Google Colab for our complete process due to availibility of free GPU resourses.
 
+The results are stored in following drive link
+https://drive.google.com/drive/folders/1Eatk1uAKiTPwkIRXJTk47I4yJdPmNWKj?usp=sharing
+
